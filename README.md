@@ -33,7 +33,7 @@ Tips:
 
 ### Task
 
-Run the script and check the output (include all files in your assignmentrepository).
+Run the script and check the output (include all files in your assignment repository).
 
 ### Example usage
 ```
